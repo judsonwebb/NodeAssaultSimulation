@@ -1,6 +1,5 @@
 """
-This module provides a number of useful functions for COMP 182, including
-manipulating graphs, plotting data, and timing functions.
+These functions are all GIVEN. This file does not contain original code.
 """
 
 import matplotlib.pyplot as plt
